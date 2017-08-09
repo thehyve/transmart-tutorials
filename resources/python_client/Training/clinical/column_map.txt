@@ -3,7 +3,8 @@ demografics_data.txt		1	SUBJ_ID
 demografics_data.txt	Demographics	2	Gender		
 demografics_data.txt	Demographics	3	Age		
 demografics_data.txt	Study_Design	4	Group		
-blood_pressure_data.txt	General	1	SUBJ_ID		
-blood_pressure_data.txt	General	2	TRIAL_VISIT		
-blood_pressure_data.txt	General	3	INSTANCE_NUM		
+demografics_data.txt	Measurements	5	Method		
+blood_pressure_data.txt	Measurements	1	SUBJ_ID		
+blood_pressure_data.txt	Measurements	2	TRIAL_VISIT_LABEL		
+blood_pressure_data.txt	Measurements	3	INSTANCE_NUM		
 blood_pressure_data.txt	Measurements	4	Blood_pressure		

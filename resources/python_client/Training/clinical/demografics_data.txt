@@ -1,13 +1,13 @@
-SubjectID	Demographics+Gender	Demographics+Age	Study_Design+Group
-subject_1	Male	43.1	Control
-subject_2	Female	41.5	Control
-subject_3	Female	43.3	Control
-subject_4	Male	49.9	Control
-subject_5	Male	38.8	Control
-subject_6	Female	52.3	Control
-subject_7	Male	66.6	Treatment
-subject_8	Male	57.4	Treatment
-subject_9	Male	48.1	Treatment
-subject_10	Female	41.1	Treatment
-subject_11	Female	42.5	Treatment
-subject_12	Female	66.9	Treatment
+SubjectID	Demographics+Gender	Demographics+Age	Study_Design+Group	Measurements+Method
+subject_1	Male	43.1	Control	Palpatory Systolic Pressure
+subject_2	Female	41.5	Control	Palpatory Systolic Pressure
+subject_3	Female	43.3	Control	Palpatory Systolic Pressure
+subject_4	Male	49.9	Control	Palpatory Systolic Pressure
+subject_5	Male	38.8	Control	Palpatory Systolic Pressure
+subject_6	Female	52.3	Control	Palpatory Systolic Pressure
+subject_7	Male	66.6	Treatment	Palpatory Systolic Pressure
+subject_8	Male	57.4	Treatment	Palpatory Systolic Pressure
+subject_9	Male	48.1	Treatment	Palpatory Systolic Pressure
+subject_10	Female	41.1	Treatment	Palpatory Systolic Pressure
+subject_11	Female	42.5	Treatment	Palpatory Systolic Pressure
+subject_12	Female	66.9	Treatment	Palpatory Systolic Pressure
