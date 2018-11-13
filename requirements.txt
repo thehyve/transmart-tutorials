@@ -27,7 +27,7 @@ pytest==3.3.1
 python-dateutil==2.6.1
 pytz==2017.3
 pyzmq==16.0.3
-requests==2.18.4
+requests>=2.20
 simplegeneric==0.8.1
 six==1.11.0
 tornado==4.5.2
